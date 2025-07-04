@@ -49,7 +49,8 @@ Jalankan Apache Tomcat dari NetBeans atau standalone.
 
 Deploy project JSP kamu.
 
-Akses aplikasi melalui browser:
+# Akses aplikasi melalui browser:
+
 Jalankan Apache Tomcat dari NetBeans 
 
 Deploy project JSP .
