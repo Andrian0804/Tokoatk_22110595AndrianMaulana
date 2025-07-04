@@ -1,7 +1,5 @@
 # Tokoatk
-TokoATK merupakan singkatan dari **Toko Alat Tulis Kantor**, tempat yang menjual berbagai perlengkapan kantor seperti:
-- Kertas HVS, pulpen, pensil
-- Buku tulis, map, amplop dan lainnya
+TokoAtk meerupakan aplikasi web manajemen (ATK)toko alat tulis kantor berbasis Java EE (JSP/Servlet) yang mendukung fitur CRUD untuk barang, stok, penjualan, dan user.
   
 # Fitur Utama
 
