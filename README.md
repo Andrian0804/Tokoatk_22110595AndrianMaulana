@@ -6,21 +6,32 @@ TokoATK merupakan singkatan dari **Toko Alat Tulis Kantor**, tempat yang menjual
 Fitur Utama
 
 👤 Manajemen User
+
 Menampilkan daftar user
+
 Menambah user baru
+
 Edit dan hapus user
+
 Akses login ke sistem
 
 📦 Manajemen Barang
+
 Menampilkan daftar barang
+
 Menambah barang baru
+
 Edit dan hapus data barang
+
 Stok barang dikelola otomatis dari transaksi
 
 💳 Transaksi Penjualan
 Tambah transaksi baru dengan pilihan barang dan jumlah
+
 Hitung total harga otomatis
+
 Menampilkan daftar transaksi yang sudah dilakukan
+
 Simpan data transaksi ke database
 
 Pastikan  sudah menginstal:
