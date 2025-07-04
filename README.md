@@ -5,33 +5,33 @@ TokoAtk meerupakan aplikasi web manajemen (ATK)toko alat tulis kantor berbasis J
 
 👤 Manajemen User
 
-Menampilkan daftar user
+- Menampilkan daftar user
 
-Menambah user baru
+- Menambah user baru
 
-Edit dan hapus user
+- Edit dan hapus user
 
-Akses login ke sistem
+- Akses login ke sistem
 
 📦 Manajemen Barang
 
-Menampilkan daftar barang
+- Menampilkan daftar barang
 
-Menambah barang baru
+- Menambah barang baru
 
-Edit dan hapus data barang
+- Edit dan hapus data barang
 
-Stok barang dikelola otomatis dari transaksi
+- Stok barang dikelola otomatis dari transaksi
 
 💳 Transaksi Penjualan
 
-Tambah transaksi baru dengan pilihan barang dan jumlah
+- Tambah transaksi baru dengan pilihan barang dan jumlah
 
-Hitung total harga otomatis
+- Hitung total harga otomatis
 
-Menampilkan daftar transaksi yang sudah dilakukan
+- Menampilkan daftar transaksi yang sudah dilakukan
 
-Simpan data transaksi ke database
+- Simpan data transaksi ke database
 
 # Pastikan  sudah menginstal:
 
