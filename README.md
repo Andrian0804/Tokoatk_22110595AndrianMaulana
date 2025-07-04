@@ -54,7 +54,7 @@ Jalankan Apache Tomcat dari NetBeans
 Deploy project JSP .
 
 Akses aplikasi melalui browser:
-http://localhost:8080/nama-project/
+http://localhost:8080/toko/
 
 # konfigurasi database
 src/java/Db/DbConnection.java
