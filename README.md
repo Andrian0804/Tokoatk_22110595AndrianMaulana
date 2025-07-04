@@ -3,7 +3,7 @@ TokoATK merupakan singkatan dari **Toko Alat Tulis Kantor**, tempat yang menjual
 - Kertas HVS, pulpen, pensil
 - Buku tulis, map, amplop dan lainnya
   
-Fitur Utama
+#Fitur Utama
 
 👤 Manajemen User
 
@@ -26,6 +26,7 @@ Edit dan hapus data barang
 Stok barang dikelola otomatis dari transaksi
 
 💳 Transaksi Penjualan
+
 Tambah transaksi baru dengan pilihan barang dan jumlah
 
 Hitung total harga otomatis
@@ -34,7 +35,7 @@ Menampilkan daftar transaksi yang sudah dilakukan
 
 Simpan data transaksi ke database
 
-Pastikan  sudah menginstal:
+#Pastikan  sudah menginstal:
 
 JDK 8 atau lebih baru
 
@@ -56,6 +57,6 @@ Deploy project JSP .
 Akses aplikasi melalui browser:
 http://localhost:8080/nama-project/
 
-konfigurasi database
+#konfigurasi database
 src/java/Db/DbConnection.java
 
